@@ -8,7 +8,7 @@ The test examples were performed in the "Mercadolibre" website which is an onlin
 - Python3
 - At least one of these browsers installed [Chrome, Firefox]
 
-## 🛠️ Running the project:
+## 🔨 Running the project:
 
 1. Clone the repo
 2. Install dependencies from requirements file.
@@ -22,7 +22,7 @@ Marks can be added to test in order to run based on tags, at the moment the only
 
 `pytest -v -m smoke`  
 
-## TODO
+## 🛠️TODO
 
 - Add singleton to Driver
 - Add Edge, Opera and Safari support
